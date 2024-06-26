@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="2PAk0jawUKr856Yi3hgY7ylHzewJv6bAakzhL5jXgLA" />
 # 💫 About Me:
 🎓 EDUCATION: PURSUING A DEGREE AT TKM COLLEGE OF ENGINEERING.<br><br>🤖 INTERESTS:<br>        IOT (INTERNET OF THINGS),ROBOTICS,MECHATRONICS,CYBERSECURITY,HARDWARE HACKING,ELECTRONICS<br><br>      PROGRAMMING LANGUAGES: PYTHON, C, JAVASCRIPT,HTML,CSS,[CURRENTLY STUDING DART, JAVA , REACT]<br>     SKILLS<br>       EMBEDDED SYSTEMS AND MICROCONTROLLERS<br>       CIRCUIT DESIGN AND PCB LAYOUT<br>       NETWORK SECURITY PROTOCOLS<br><br>🚀 PROJECTS:<br>       DEVELOPED A WIFI PENTESTING WATCH FIRMWARE<br>       BUILT A AUTOMATED PARKING SYSTEM WITH MOBILE APP.<br>       BUILD A BATTLE BOT FOR ANTWEIGHT ROBOWAR.<br>       CREATED A RTC CLOCK UI FOR I2C OLED.<br><br>🌟 FUN FACT: DEVELOPER OF ZERO WATCH V1 [ PROGRAMMBLE HACKERS WATCH].<br>📫 CONTACT: REACH ME AT ANANDHUAJITH@OUTLOOK.IN<br>
 
@@ -25,6 +26,5 @@
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/Anandhuajith) 
-<meta name="google-site-verification" content="2PAk0jawUKr856Yi3hgY7ylHzewJv6bAakzhL5jXgLA" />
-  
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
