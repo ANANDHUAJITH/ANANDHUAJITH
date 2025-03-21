@@ -17,7 +17,7 @@
 
 
 ## SAE TKMCE
-![SAE TKMCE logo](https://placehold.co/50x50)  
+![SAE TKMCE logo](https://upload.wikimedia.org/wikipedia/commons/d/d5/SAE_International_Logo_R_2015_med.png)  
 **Full-time · 1 yr**  
 Karicode · On-site
 
