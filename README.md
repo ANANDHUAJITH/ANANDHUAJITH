@@ -13,105 +13,36 @@
 
 
 
-# Experience
-<div style="max-width: 800px; margin: auto; background: white; padding: 24px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
- <h1 style="font-size: 24px; font-weight: bold; margin-bottom: 16px;">
-  Experience
- </h1>
- <!-- SAE TKMCE Section -->
- <div style="position: relative; margin-bottom: 24px;">
-  <div style="display: flex; align-items: start; margin-bottom: 8px;">
-   <img alt="SAE TKMCE logo" src="https://placehold.co/50x50" style="width: 48px; height: 48px; margin-right: 16px;"/>
-   <div>
-    <h2 style="font-size: 20px; font-weight: 600;">
-     SAE TKMCE
-    </h2>
-    <p style="color: #4B5563;">
-     Full-time · 1 yr
-    </p>
-    <p style="color: #4B5563;">
-     Karicode · On-site
-    </p>
-   </div>
-  </div>
-  <div style="margin-left: 64px;">
-   <div style="margin-bottom: 16px;">
-    <h3 style="font-size: 18px; font-weight: 600;">
-     Team Vice Captain, SPOX
-    </h3>
-    <p style="color: #4B5563;">
-     Dec 2024 - Present · 4 mos
-    </p>
-   </div>
-   <div style="margin-bottom: 16px;">
-    <h3 style="font-size: 18px; font-weight: 600;">
-     Team Member, SPOX
-    </h3>
-    <p style="color: #4B5563;">
-     Apr 2024 - Nov 2024 · 8 mos
-    </p>
-    <p style="color: #1F2937;">
-     As a member of the SPOX Cycle Building Team at SAE TKMCE, I contributed to the design and development of a lightweight, high-performance bicycle optimized for efficiency and durability.
-    </p>
-    <p style="color: #4B5563;">
-     <i class="fas fa-gem">
-     </i>
-     Design
-    </p>
-   </div>
-  </div>
-  <div style="position: absolute; left: 24px; top: 0; bottom: 0; width: 2px; background: #D1D5DB;">
-  </div>
- </div>
- <!-- CENTRE FOR ROBOTICS TKMCE Section -->
- <div style="position: relative;">
-  <div style="display: flex; align-items: start; margin-bottom: 8px;">
-   <img alt="CENTRE FOR ROBOTICS TKMCE logo" src="https://placehold.co/50x50" style="width: 48px; height: 48px; margin-right: 16px;"/>
-   <div>
-    <h2 style="font-size: 20px; font-weight: 600;">
-     CENTRE FOR ROBOTICS TKMCE
-    </h2>
-    <p style="color: #4B5563;">
-     Full-time · 1 yr 7 mos
-    </p>
-   </div>
-  </div>
-  <div style="margin-left: 64px;">
-   <div style="margin-bottom: 16px;">
-    <h3 style="font-size: 18px; font-weight: 600;">
-     Frontend Web Developer
-    </h3>
-    <p style="color: #4B5563;">
-     Sep 2024 - Present · 7 mos
-    </p>
-    <p style="color: #4B5563;">
-     Karicode · On-site
-    </p>
-    <p style="color: #4B5563;">
-     <i class="fas fa-code">
-     </i>
-     Front-End Development, HTML and +1 skill
-    </p>
-   </div>
-   <div style="margin-bottom: 16px;">
-    <h3 style="font-size: 18px; font-weight: 600;">
-     Member
-    </h3>
-    <p style="color: #4B5563;">
-     Sep 2023 - Present · 1 yr 7 mos
-    </p>
-    <p style="color: #4B5563;">
-     <i class="fas fa-microchip">
-     </i>
-     Arduino, C (Programming Language) and +2 skills
-    </p>
-   </div>
-  </div>
-  <div style="position: absolute; left: 24px; top: 0; bottom: 0; width: 2px; background: #D1D5DB;">
-  </div>
- </div>
-</div>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet"/>
+# 🧑‍🔬 Experience
+
+
+## SAE TKMCE
+![SAE TKMCE logo](https://placehold.co/50x50)  
+**Full-time · 1 yr**  
+Karicode · On-site
+
+### Team Vice Captain, SPOX
+*Dec 2024 - Present · 4 mos*
+
+### Team Member, SPOX
+*Apr 2024 - Nov 2024 · 8 mos*  
+As a member of the SPOX Cycle Building Team at SAE TKMCE, I contributed to the design and development of a lightweight, high-performance bicycle optimized for efficiency and durability.  
+`Design`
+
+---
+
+## CENTRE FOR ROBOTICS TKMCE
+![CENTRE FOR ROBOTICS TKMCE logo](https://placehold.co/50x50)  
+**Full-time · 1 yr 7 mos**
+
+### Frontend Web Developer
+*Sep 2024 - Present · 7 mos*  
+Karicode · On-site  
+`Front-End Development, HTML and +1 skill`
+
+### Member
+*Sep 2023 - Present · 1 yr 7 mos*  
+`Arduino, C (Programming Language) and +2 skills`
 
 
 
