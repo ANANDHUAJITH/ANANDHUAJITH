@@ -37,13 +37,6 @@ OTHER TOOLS AND DOMAINS<br>
 
 
 ## SAE TKMCE
-![SAE TKMCE logo](https://upload.wikimedia.org/wikipedia/commons/d/d5/SAE_International_Logo_R_2015_med.png)  
-**Full-time · 1 yr**  
-Karicode · On-site
-
-### Team Vice Captain, SPOX
-*Dec 2024 - Present · 4 mos*
-
 ### Team Member, SPOX
 *Apr 2024 - Nov 2024 · 8 mos*  
 As a member of the SPOX Cycle Building Team at SAE TKMCE, I contributed to the design and development of a lightweight, high-performance bicycle optimized for efficiency and durability.  
