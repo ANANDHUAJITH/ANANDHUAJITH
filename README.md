@@ -1,12 +1,12 @@
-<!-- Drop your own banner / profile image right here, e.g.:
-<img src="banner.png" width="50%" />
--->
-
-<div align="center">
-
-<table width="50%">
+<table width="100%">
 <tr>
-<td>
+<td width="50%" align="center" valign="top">
+
+<img src="https://github.com/ANANDHUAJITH/ANANDHUAJITH/blob/main/ARTIC.png" width="100%" />
+
+</td>
+
+<td width="50%" valign="top">
 
 ```diff
 + > whoami
@@ -32,10 +32,3 @@ crafted for engineers, by an engineer.
 [CPP] C++
 [PY ] Python
 [RTS] Real-time Systems
-```
-
-</td>
-</tr>
-</table>
-
-</div>
