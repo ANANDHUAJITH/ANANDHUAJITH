@@ -45,3 +45,18 @@ Innovate. Inspire.
 </td>
 </tr>
 </table>
+<br>
+
+#### <code>&gt; tech_stack</code>
+ 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ros" height="55" alt="ROS 2"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" height="55" alt="Linux"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="C++"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=py" height="55" alt="Python"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="55" alt="Git"/>&nbsp;
+
+
+</p>
+<br>
+
