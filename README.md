@@ -12,25 +12,24 @@ Currently building the future with ROS 2,
 control theory, and a custom Linux distro
 crafted for engineers, by an engineer.
 ```
-
 </td>
 <td width="50%" align="center" valign="top">
-<img src="https://github.com/ANANDHUAJITH/ANANDHUAJITH/blob/main/ARTIC.png" width="100%" />
+<img src="https://raw.githubusercontent.com/ANANDHUAJITH/ANANDHUAJITH/main/ARTIC.png" width="150%" />
 </td>
 <td width="25%" align="center" valign="top">
 
+
 ```diff
-+ > whoami
+
++  > whoami
 Name: ANANDHAKRISHNAN AJITH
 Role: ROS 2 Developer
-Focus: Control Systems, Robotics, Cybersecurity, Electronics
 OS: Artic Linux
 Editor: Nano(i luvv nano)
 Language: C++ | Python | Rust
 Coffee: Not So Mandatory
 Mission: Automate. Innovate. Inspire.
 ```
-
 </td>
 </tr>
 </table>
