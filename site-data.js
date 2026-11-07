@@ -102,8 +102,8 @@ window.SITE = {
       url: "https://github.com/ANANDHUAJITH/piper",
     },
     {
-      title: "TurtleBot 4 & Pololu 3pi", category: "Robotics", featured: true,
-      desc: "Worked with TurtleBot 4 and built/configured three Pololu 3pi robots, implementing telemetry and navigation.",
+      title: "TurtleBot 4 & Pololu romi", category: "Robotics", featured: true,
+      desc: "Worked with TurtleBot 4 and built/configured Pololu robots, implementing telemetry and navigation.",
       tags: ["ROS", "TELEMETRY", "NAVIGATION"],
       url: "https://github.com/ANANDHUAJITH/REPLACE-MOBILE-ROBOT-REPO",
     },
