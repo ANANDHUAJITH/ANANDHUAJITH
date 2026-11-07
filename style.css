@@ -301,7 +301,7 @@ html[data-theme="dark"] .eyebrow { color: #9a9aa0; }
 }
 .status-card { right: 2%; top: 23%; padding: 13px 17px; display: flex; align-items: center; gap: 10px; animation: floatCard 5s ease-in-out infinite; }
 .status-dot { width: 7px; height: 7px; background: #45a66b; border-radius: 50%; box-shadow: 0 0 0 4px rgba(69,166,107,.12); }
-.code-card { right: -8%; bottom: 17%; padding: 15px 17px; min-width: 270px; animation: floatCard 6s ease-in-out infinite reverse; }
+.code-card { right: -25%; bottom: 17%; padding: 15px 17px; min-width: 270px; animation: floatCard 6s ease-in-out infinite reverse; }
 .card-top { display: flex; gap: 10px; align-items: center; color: var(--muted); font-size: 10px; margin-bottom: 12px; letter-spacing: .7px; text-transform: uppercase; }
 .mini-prompt { color: var(--red); font-size: 14px; }
 .code-line { font-size: 11px; line-height: 1.9; white-space: nowrap; }
