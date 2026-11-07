@@ -189,7 +189,7 @@ window.SITE = {
         { name: "Raspberry Pi Zero 2 W" }, { name: "Jetson Nano", note: "basic use" },
       ]},
       { name: "Robots & arms", items: [
-        { name: "TurtleBot 4" }, { name: "iRobot Create 3" }, { name: "Pololu 3pi", note: "×3" },
+        { name: "TurtleBot 4" }, { name: "iRobot Create 3" }, { name: "Pololu romi" },
         { name: "Piper arm" },
       ]},
       { name: "Sensors", items: [
