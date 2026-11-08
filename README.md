@@ -105,17 +105,17 @@ I'm **Anandhu**, a developer who enjoys turning ideas into reality through code.
 <table>
   <tr>
     <td width="33%">
-      <a href="https://github.com/YOUR_USERNAME/ketchup-os"><strong>🖥️ Ketchup OS</strong></a>
+      <a href="https://github.com/ANANDHUAJITH/ketchup"><strong>🖥️ Ketchup OS</strong></a>
       <br/>
       <sub>A lightweight, minimal Linux distribution.</sub>
     </td>
     <td width="33%">
-      <a href="https://github.com/YOUR_USERNAME/ketchup-web"><strong>🌐 Ketchup Web</strong></a>
+      <a href="https://ANANDHUAJITH.github.io/ketchup-web"><strong>🌐 Ketchup Web</strong></a>
       <br/>
       <sub>My personal website and portfolio.</sub>
     </td>
     <td width="33%">
-      <a href="https://github.com/YOUR_USERNAME?tab=repositories"><strong>⭐ More Projects</strong></a>
+      <a href="https://github.com/ANANDHUAJITH?tab=repositories"><strong>⭐ More Projects</strong></a>
       <br/>
       <sub>Check out my other work!</sub>
     </td>
