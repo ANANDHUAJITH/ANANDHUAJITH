@@ -100,6 +100,11 @@ I'm **Anandhu**, a developer who enjoys turning ideas into reality through code.
 
 <br/>
 
+[<img src="https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="150" height="150">](https://www.credly.com/badges/b9ab0b8a-619f-4a6a-af9b-5f2b08812351/public_url)
+[<img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="150" height="150">](https://www.credly.com/badges/ce71db10-c1ad-425c-a454-88546edfe10d/public_url)
+
+
+
 ### <img src="https://img.shields.io/badge/-red?style=flat-square&color=E11D1D" width="4" height="20"/> Projects
 
 <table>
